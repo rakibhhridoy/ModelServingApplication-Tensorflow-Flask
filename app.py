@@ -16,7 +16,7 @@ def index():
         if uploaded_file.filename != '':
             image_path = os.path.json('static', uploaded_file.filename)
             uploaded_file.save(image_path)
-            class_name = inference.get_prediction(inage_path)
+            class_name = inference.get_prediction(image_path)
             print('CLASS NAME=', class_name)
             result = {
                 'class_name':class_name,
