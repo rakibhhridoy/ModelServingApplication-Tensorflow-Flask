@@ -1,4 +1,4 @@
-# *Model Serving Using TensorFlow & TensorFlow *
+# *Model Serving Using TensorFlow And TensorFlow*
 ![img0](https://cdn-images-1.medium.com/max/1200/1*mw4ueBUMyeKnzcHVN1smLg.png)
 
 
